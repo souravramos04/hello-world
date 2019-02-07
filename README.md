@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+Hello People!
+
+I like Machine Learning and Data Sturctures. 
